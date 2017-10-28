@@ -1,0 +1,18 @@
+.nav-bar {
+	background-color: black;
+	height: 50px;
+	padding-top: 15px;
+}
+.nav-bar a {
+	color: white;
+	font: 20px bold;
+	text-decoration: none;
+	padding-left: 30px;
+}
+
+.nav-bar a:hover, .nav-bar a:active {
+	color: blue;
+	font: 20px bold;
+	text-decoration: none;
+	padding-left: 30px;
+}
